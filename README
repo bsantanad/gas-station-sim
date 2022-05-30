@@ -1,0 +1,12 @@
+===============================
+super simple gas station
+===============================
+
+super simple simulation that fulfills these reqs:
+
+1. cars arrive at the gas station, and wait for their turn to get the car
+filled.
+2. the gas station has PUMPS amount of gas pumps
+3. cars take FILLING_TIME amount of time to get washed.
+4. gas pumps can get empty and they need to refill them.
+
