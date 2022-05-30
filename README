@@ -2,7 +2,7 @@
 super simple gas station
 ===============================
 
-super simple simulation that fulfills these reqs:
+super simple simulation that fulfils these reqs:
 
 1. cars arrive at the gas station, and wait for their turn to get the car
 filled.
